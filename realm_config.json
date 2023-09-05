@@ -1,9 +1,8 @@
 {
-    "app_id": "earnybee-01-gnkut",
+    "app_id": "earnybee-casino-oeqpf",
     "config_version": 20210101,
-    "name": "Earnybee-01",
-    "location": "IN-MB",
-    "provider_region": "aws-ap-south-1",
-    "deployment_model": "LOCAL",
-    "environment": "development"
+    "name": "Earnybee-casino",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL"
 }
